@@ -20,7 +20,7 @@ jQuery(function ($) {
         // initialize playlist and controls
         var index = 0,
             playing = false,
-            mediaPath = 'https://github.com/namnyang/html_portfolio/music_player/music/',
+            mediaPath = 'https://raw.githubusercontent.com/namnyang/html_portfolio/main/music_player/music/',
             extension = '',
             tracks = [{
                 "track": 1,
