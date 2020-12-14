@@ -14,7 +14,7 @@
 
 - [Loop Text](https://namnyang.github.io/html_portfolio/loop_text)
 
-- [Random  Gradient](https://namnyang.github.io/html_portfolio/random)
+- [Random  Gradient](https://namnyang.github.io/html_portfolio/random_gradient)
 
 - [Text Animation](https://namnyang.github.io/html_portfolio/text_animation)
 
