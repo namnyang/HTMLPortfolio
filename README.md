@@ -18,5 +18,5 @@
 
 - [Text Animation](https://namnyang.github.io/html_portfolio/text_animation)
 
-- [Music.Player](https://namnyang.github.io/html_portfolio/music_player)
+- [Music Player](https://namnyang.github.io/html_portfolio/music_player)
 
