@@ -1,0 +1,26 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 100px;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+          align-items: center;
+  height: 100vh;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+background: #1D1E22;
+color: white;
+}
+
+.menu--item {
+  white-space: nowrap;
+  display: -webkit-box;
+  display: flex;
+  flex-wrap: nowrap;
+  cursor: pointer;
+  text-shadow: 5px 5px white, 5px 5px rgba(0, 0, 0, 0.1), 10px 10px rgba(0, 0, 0, 0.1);
+}
